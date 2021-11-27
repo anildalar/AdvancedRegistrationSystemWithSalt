@@ -1,0 +1,6 @@
+action = kaha
+method = Kese
+
+$_ ---> Super Global Variable
+
+$_SERVER['PHP_SELF']  === Associative Array
